@@ -1,0 +1,8 @@
+col_A,col_B,col_C,col_D
+1.0,3.0,a,True
+2.0,7.0,?,True
+3.0,,x,
+1.0,9.0,y,
+,,--,False
+,5.0,,True
+5.0,8.0,r,False
